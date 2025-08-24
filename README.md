@@ -37,8 +37,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Chadikabhanu/LeetCode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Chadikabhanu/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chadikabhanu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Chadikabhanu/LeetCode/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chadikabhanu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chadikabhanu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
