@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Chadikabhanu/LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Chadikabhanu/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Chadikabhanu/LeetCode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Chadikabhanu/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Chadikabhanu/LeetCode/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chadikabhanu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Chadikabhanu/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
