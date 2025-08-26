@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Chadikabhanu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Chadikabhanu/LeetCode/tree/master/0217-contains-duplicate) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chadikabhanu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Chadikabhanu/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
