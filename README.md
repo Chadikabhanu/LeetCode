@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Chadikabhanu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/Chadikabhanu/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Chadikabhanu/LeetCode/tree/master/0342-power-of-four) |
+| [1086-divisor-game](https://github.com/Chadikabhanu/LeetCode/tree/master/1086-divisor-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Chadikabhanu/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Chadikabhanu/LeetCode/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/Chadikabhanu/LeetCode/tree/master/1086-divisor-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chadikabhanu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Chadikabhanu/LeetCode/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chadikabhanu/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Chadikabhanu/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Chadikabhanu/LeetCode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Chadikabhanu/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
