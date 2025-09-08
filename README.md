@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Chadikabhanu/LeetCode/tree/master/0175-combine-two-tables) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Chadikabhanu/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Binary Search
 |  |
