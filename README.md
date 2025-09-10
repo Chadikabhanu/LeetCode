@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Chadikabhanu/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Chadikabhanu/LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Chadikabhanu/LeetCode/tree/master/0394-decode-string) |
 ## Greedy
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Chadikabhanu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Chadikabhanu/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Chadikabhanu/LeetCode/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/Chadikabhanu/LeetCode/tree/master/0394-decode-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Chadikabhanu/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sorting
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Chadikabhanu/LeetCode/tree/master/1086-divisor-game) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Chadikabhanu/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
