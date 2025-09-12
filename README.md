@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Chadikabhanu/LeetCode/tree/master/1086-divisor-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Chadikabhanu/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Chadikabhanu/LeetCode/tree/master/1448-maximum-69-number) |
+| [3462-vowels-game-in-a-string](https://github.com/Chadikabhanu/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Chadikabhanu/LeetCode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Chadikabhanu/LeetCode/tree/master/0394-decode-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Chadikabhanu/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3462-vowels-game-in-a-string](https://github.com/Chadikabhanu/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -93,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Chadikabhanu/LeetCode/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Chadikabhanu/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Chadikabhanu/LeetCode/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Chadikabhanu/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
 | ------- |
