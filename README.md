@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Chadikabhanu/LeetCode/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Chadikabhanu/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1086-divisor-game](https://github.com/Chadikabhanu/LeetCode/tree/master/1086-divisor-game) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Chadikabhanu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Chadikabhanu/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Chadikabhanu/LeetCode/tree/master/1448-maximum-69-number) |
 | [3462-vowels-game-in-a-string](https://github.com/Chadikabhanu/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Chadikabhanu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chadikabhanu/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Chadikabhanu/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Chadikabhanu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Chadikabhanu/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chadikabhanu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Chadikabhanu/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
