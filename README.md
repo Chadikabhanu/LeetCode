@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Chadikabhanu/LeetCode/tree/master/0394-decode-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Chadikabhanu/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Chadikabhanu/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Chadikabhanu/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Chadikabhanu/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Chadikabhanu/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Chadikabhanu/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chadikabhanu/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Chadikabhanu/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chadikabhanu/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Chadikabhanu/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Chadikabhanu/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chadikabhanu/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chadikabhanu/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Chadikabhanu/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chadikabhanu/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Chadikabhanu/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
