@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Chadikabhanu/LeetCode/tree/master/1642-water-bottles) |
 | [3462-vowels-game-in-a-string](https://github.com/Chadikabhanu/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/Chadikabhanu/LeetCode/tree/master/3830-find-closest-person) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Chadikabhanu/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
