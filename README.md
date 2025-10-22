@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Chadikabhanu/LeetCode/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/Chadikabhanu/LeetCode/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Chadikabhanu/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Recursion
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Chadikabhanu/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chadikabhanu/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Chadikabhanu/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Two Pointers
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chadikabhanu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Counting
 |  |
 | ------- |
