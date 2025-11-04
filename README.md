@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Chadikabhanu/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chadikabhanu/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Chadikabhanu/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Chadikabhanu/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Chadikabhanu/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Chadikabhanu/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Chadikabhanu/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Two Pointers
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chadikabhanu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Counting
 |  |
 | ------- |
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Chadikabhanu/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
