@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Chadikabhanu/LeetCode/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Chadikabhanu/LeetCode/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Chadikabhanu/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0861-flipping-an-image](https://github.com/Chadikabhanu/LeetCode/tree/master/0861-flipping-an-image) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Chadikabhanu/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Chadikabhanu/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Chadikabhanu/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/Chadikabhanu/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0861-flipping-an-image](https://github.com/Chadikabhanu/LeetCode/tree/master/0861-flipping-an-image) |
 | [1018-largest-perimeter-triangle](https://github.com/Chadikabhanu/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Chadikabhanu/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Chadikabhanu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Chadikabhanu/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Chadikabhanu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Chadikabhanu/LeetCode/tree/master/0125-valid-palindrome) |
+| [0861-flipping-an-image](https://github.com/Chadikabhanu/LeetCode/tree/master/0861-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Chadikabhanu/LeetCode/tree/master/0067-add-binary) |
+| [0861-flipping-an-image](https://github.com/Chadikabhanu/LeetCode/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/Chadikabhanu/LeetCode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Chadikabhanu/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Chadikabhanu/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -291,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Chadikabhanu/LeetCode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
