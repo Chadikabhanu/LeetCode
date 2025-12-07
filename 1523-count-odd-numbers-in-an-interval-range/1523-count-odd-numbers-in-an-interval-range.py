@@ -1,3 +1,7 @@
 class Solution:
     def countOdds(self, low: int, high: int) -> int:
-        return (high + 1) // 2 - low // 2
+        len=high-low+1
+        count=len // 2
+        if len % 2 and low % 2:
+            count+=1
+        return count
