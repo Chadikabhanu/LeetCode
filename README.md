@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Chadikabhanu/LeetCode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Chadikabhanu/LeetCode/tree/master/0394-decode-string) |
 | [0812-rotate-string](https://github.com/Chadikabhanu/LeetCode/tree/master/0812-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Chadikabhanu/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Chadikabhanu/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Chadikabhanu/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Chadikabhanu/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Chadikabhanu/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/Chadikabhanu/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/Chadikabhanu/LeetCode/tree/master/0861-flipping-an-image) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Chadikabhanu/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/Chadikabhanu/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Chadikabhanu/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Chadikabhanu/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
