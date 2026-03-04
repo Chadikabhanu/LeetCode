@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Chadikabhanu/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Chadikabhanu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Chadikabhanu/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Chadikabhanu/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chadikabhanu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1646-kth-missing-positive-number](https://github.com/Chadikabhanu/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chadikabhanu/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Chadikabhanu/LeetCode/tree/master/0861-flipping-an-image) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Chadikabhanu/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## String Matching
 |  |
 | ------- |
