@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Chadikabhanu/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Chadikabhanu/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Chadikabhanu/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Chadikabhanu/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Chadikabhanu/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Chadikabhanu/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Chadikabhanu/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
