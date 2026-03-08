@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Chadikabhanu/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Chadikabhanu/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Chadikabhanu/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1980-find-unique-binary-string](https://github.com/Chadikabhanu/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Chadikabhanu/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chadikabhanu/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Chadikabhanu/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Chadikabhanu/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Chadikabhanu/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/Chadikabhanu/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Chadikabhanu/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Chadikabhanu/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Chadikabhanu/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Chadikabhanu/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chadikabhanu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1646-kth-missing-positive-number](https://github.com/Chadikabhanu/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1980-find-unique-binary-string](https://github.com/Chadikabhanu/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chadikabhanu/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Chadikabhanu/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Chadikabhanu/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -338,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Chadikabhanu/LeetCode/tree/master/0812-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Chadikabhanu/LeetCode/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
