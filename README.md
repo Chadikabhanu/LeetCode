@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Chadikabhanu/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Chadikabhanu/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Chadikabhanu/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Chadikabhanu/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chadikabhanu/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Chadikabhanu/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Chadikabhanu/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Chadikabhanu/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Heap (Priority Queue)
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Chadikabhanu/LeetCode/tree/master/0861-flipping-an-image) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Chadikabhanu/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Chadikabhanu/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Chadikabhanu/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## String Matching
 |  |
 | ------- |
