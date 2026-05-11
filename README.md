@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chadikabhanu/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Chadikabhanu/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Chadikabhanu/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Chadikabhanu/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Chadikabhanu/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Chadikabhanu/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chadikabhanu/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Chadikabhanu/LeetCode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Chadikabhanu/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Chadikabhanu/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Chadikabhanu/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Chadikabhanu/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3533-snake-in-matrix](https://github.com/Chadikabhanu/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Chadikabhanu/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
