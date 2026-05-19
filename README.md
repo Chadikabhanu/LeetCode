@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Chadikabhanu/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Chadikabhanu/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1980-find-unique-binary-string](https://github.com/Chadikabhanu/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/Chadikabhanu/LeetCode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Chadikabhanu/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Chadikabhanu/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chadikabhanu/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chadikabhanu/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Chadikabhanu/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Chadikabhanu/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2540-minimum-common-value](https://github.com/Chadikabhanu/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Chadikabhanu/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Chadikabhanu/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Chadikabhanu/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Chadikabhanu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0861-flipping-an-image](https://github.com/Chadikabhanu/LeetCode/tree/master/0861-flipping-an-image) |
 | [1768-merge-strings-alternately](https://github.com/Chadikabhanu/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2540-minimum-common-value](https://github.com/Chadikabhanu/LeetCode/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Chadikabhanu/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Chadikabhanu/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1646-kth-missing-positive-number](https://github.com/Chadikabhanu/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2540-minimum-common-value](https://github.com/Chadikabhanu/LeetCode/tree/master/2540-minimum-common-value) |
 ## Brainteaser
 |  |
 | ------- |
