@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Chadikabhanu/LeetCode/tree/master/1448-maximum-69-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Chadikabhanu/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Chadikabhanu/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chadikabhanu/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Chadikabhanu/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Chadikabhanu/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Array
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Chadikabhanu/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Chadikabhanu/LeetCode/tree/master/0861-flipping-an-image) |
 | [1768-merge-strings-alternately](https://github.com/Chadikabhanu/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2540-minimum-common-value](https://github.com/Chadikabhanu/LeetCode/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Chadikabhanu/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1646-kth-missing-positive-number](https://github.com/Chadikabhanu/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/Chadikabhanu/LeetCode/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Brainteaser
 |  |
 | ------- |
