@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Chadikabhanu/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3533-snake-in-matrix](https://github.com/Chadikabhanu/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/Chadikabhanu/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Chadikabhanu/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Chadikabhanu/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3838-weighted-word-mapping](https://github.com/Chadikabhanu/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/Chadikabhanu/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Chadikabhanu/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Chadikabhanu/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/Chadikabhanu/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Memoization
 |  |
 | ------- |
