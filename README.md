@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Chadikabhanu/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Chadikabhanu/LeetCode/tree/master/0383-ransom-note) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Chadikabhanu/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Chadikabhanu/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Chadikabhanu/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Chadikabhanu/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1980-find-unique-binary-string](https://github.com/Chadikabhanu/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Chadikabhanu/LeetCode/tree/master/0394-decode-string) |
 | [0812-rotate-string](https://github.com/Chadikabhanu/LeetCode/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Chadikabhanu/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1189-maximum-number-of-balloons](https://github.com/Chadikabhanu/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Chadikabhanu/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Chadikabhanu/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Chadikabhanu/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Chadikabhanu/LeetCode/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/Chadikabhanu/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Chadikabhanu/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chadikabhanu/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Chadikabhanu/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
