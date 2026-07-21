@@ -3,6 +3,6 @@ class Solution:
         missing=1
         nums.sort()
         for num in nums:
-            if missing > 0 and missing == num:
+            if num > 0 and missing == num:
                 missing+=1
         return missing
