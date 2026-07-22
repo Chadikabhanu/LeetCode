@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Chadikabhanu/LeetCode/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/Chadikabhanu/LeetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Chadikabhanu/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Chadikabhanu/LeetCode/tree/master/0706-design-hashmap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Chadikabhanu/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Chadikabhanu/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Chadikabhanu/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Chadikabhanu/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Chadikabhanu/LeetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Chadikabhanu/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Chadikabhanu/LeetCode/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Chadikabhanu/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Chadikabhanu/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/Chadikabhanu/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Chadikabhanu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Chadikabhanu/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0705-design-hashset](https://github.com/Chadikabhanu/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Chadikabhanu/LeetCode/tree/master/0706-design-hashmap) |
 ## Geometry
 |  |
 | ------- |
@@ -448,8 +451,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Chadikabhanu/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Chadikabhanu/LeetCode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Chadikabhanu/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Chadikabhanu/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
