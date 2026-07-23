@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Chadikabhanu/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Chadikabhanu/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Chadikabhanu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Chadikabhanu/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Chadikabhanu/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Chadikabhanu/LeetCode/tree/master/0169-majority-element) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chadikabhanu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chadikabhanu/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Chadikabhanu/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Chadikabhanu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Chadikabhanu/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Chadikabhanu/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Chadikabhanu/LeetCode/tree/master/0066-plus-one) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Chadikabhanu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0861-flipping-an-image](https://github.com/Chadikabhanu/LeetCode/tree/master/0861-flipping-an-image) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Chadikabhanu/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Chadikabhanu/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
